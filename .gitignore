@@ -1,0 +1,9 @@
+.env
+.env.local
+*.log
+dist/
+build/
+__pycache__/
+.venv/
+*.db
+memory.md
